@@ -1,4 +1,3 @@
-package src;
 public class ifElseAndSwitch {
     public static void main(String[] args) {
         //if (condition) {}
