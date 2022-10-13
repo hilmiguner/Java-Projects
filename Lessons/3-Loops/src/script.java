@@ -1,5 +1,3 @@
-import java.util.concurrent.locks.Condition;
-
 public class script {
     public static void main(String[] args) {
         // for (statement1 ; statement2 ; statement3) {code block}
